@@ -2,7 +2,7 @@
 
 # Install Wine
 sudo dpkg --add-architecture i386
-sudo wget -nc -O /usr/share/keyrings/winehq-archive.key https://dl.winehq.org/wine-builds/winehq.key sudo apt update
+sudo wget -nc -O /usr/share/keyrings/winehq-archive.key https://dl.winehq.org/wine-builds/winehq.key
 sudo apt install --install-recommends winehq-stable
 
 # update os
