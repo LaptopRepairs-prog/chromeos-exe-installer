@@ -13,6 +13,7 @@ Turn on Linux Development Environment and click recommend.
 Clone the repository to your local machine:
 
 git clone https://github.com/robinokeeffe/chromeos-exe-installer/
+
 Navigate to the repository directory:
 
 cd chromeos-exe-installer
