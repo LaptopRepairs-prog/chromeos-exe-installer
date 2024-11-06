@@ -27,7 +27,12 @@ Execute the setup script by running:
 
 
 ./setup.sh
+./run.sh
+
+download you .exe file
 Follow the prompt to enter the path to your .exe file.
+/home/chronos/user/Downloads/
+add the filename and add .exe to the end of it
 
 Complete the Installation:
 
